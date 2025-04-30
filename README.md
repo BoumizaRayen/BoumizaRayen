@@ -3,4 +3,6 @@
 🎓 I'm a Computer Engineering student at École Polytechnique de Sousse<br>
 🧠 Passionate about Artificial Intelligence and Data Science<br>
 📊 Currently exploring machine learning, neural networks, and data analytics<br>
-💡 Always learning, building, and sharing my projects and ideas<br>
+💡 Always learning, building, and sharing my projects and ideas<br><br>
+
+[![Mohamed Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoumizaRayen)](https://github.com/anuraghazra/github-readme-stats)
