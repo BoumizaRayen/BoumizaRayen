@@ -5,4 +5,4 @@
 📊 Currently exploring machine learning, neural networks, and data analytics<br>
 💡 Always learning, building, and sharing my projects and ideas<br><br>
 
-[![Mohamed Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoumizaRayen)](https://github.com/anuraghazra/github-readme-stats)
+![Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoumizaRayen&show_icons=true&theme=tokyonight)
